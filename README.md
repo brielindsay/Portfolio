@@ -18,6 +18,8 @@ Portfolio projects
 
 **8. skip lists** - data structure exploration where a variety of functions were developed to show understanding of how skip lists work and can be utilised in data analysis
 
-**9. Tweets predictive model** - through this project i was able to use jave to create a model and relevant functions that predicts tweet polarity
+**9. Tweets predictive model** - through this project i was able to use jave to create a model and relevant functions that predicts tweet polarity.
 
-**10. RTree** - 
+**10. Map Reduce** - Implementation of Multiple Map Reduce models to efficiently handle big data 
+
+**11. RTree** - Implementation of an RTree for big data
